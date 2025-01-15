@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+🔐 Cybersecurity Professional in Training | SOC Analyst | Cloud Computing Specialist | AI Innovator<br><br>Hello! I’m Jeffery Anane Jackson, a Cybersecurity student and SOC Analyst in training with expertise in Azure Cloud Computing and automation. My current focus lies in securing systems, enhancing incident response, and building scalable cloud infrastructures. With a background in filmmaking, I also have a keen interest in leveraging generative AI for media production workflows, a space I aim to explore further in the future.<br><br>🌟 About Me<br>	•	🔒 Cybersecurity Expertise: Pursuing certifications in SOC Analysis and developing skills in threat detection, mitigation, and automation to protect systems against emerging threats.<br>	•	☁ Cloud Computing: Mastering Azure tools and architectures to design secure, efficient, and scalable cloud environments.<br>	•	⚙ Automation Enthusiast: Creating solutions to streamline cybersecurity workflows, incident response, and business productivity.<br>	•	🎥 Filmmaking Meets Tech: Bringing a creative perspective from my filmmaking background into tech, with a long-term goal of applying generative AI to revolutionize video and media production workflows.<br><br>💡 What I’m Looking to Collaborate On<br>	•	Building automation tools for cybersecurity incident detection and response.<br>	•	AI-driven projects that integrate automation and predictive analytics into workflows.<br>	•	Exploring generative AI solutions for video post-production and media asset creation.<br>	•	Cloud-native solutions that combine security and scalability in Azure environments.<br><br>📚 Currently Learning<br>	•	SOC analysis techniques, including threat hunting and SIEM management.<br>	•	Advanced Azure tools, such as Azure Sentinel, Logic Apps, and Defender for Cloud.<br>	•	Python scripting for automation and AI-based cybersecurity solutions.<br>	•	Generative AI models and their potential applications in media production workflows.<br><br>❓ Ask Me About<br>	•	Designing secure cloud architectures and implementing Azure security best practices.<br>	•	Automating incident response workflows using Python, PowerShell, and Azure tools.<br>	•	Using AI for cybersecurity, workflow automation, and media innovation.<br>	•	The intersection of creativity and technology in AI and cloud computing.<br><br>🎯 Fun Fact<br><br>I come from a filmmaking backround and I’m passionate about merging technical precision with creative problem-solving, aiming to bring innovation to both the cybersecurity and media industries.<br><br><br><br>	<br><br>
 
-<!--
-**ANANE-23/ANANE-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeffery-anane-jackson-9059ba134/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ANANE-23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ANANE-23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANANE-23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ANANE-23&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
